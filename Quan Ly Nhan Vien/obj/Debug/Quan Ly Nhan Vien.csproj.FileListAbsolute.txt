@@ -1,0 +1,11 @@
+C:\Users\tuana\OneDrive\Documents\C#\Quan Ly Nhan Vien\Quan Ly Nhan Vien\bin\Debug\Quan Ly Nhan Vien.exe.config
+C:\Users\tuana\OneDrive\Documents\C#\Quan Ly Nhan Vien\Quan Ly Nhan Vien\bin\Debug\Quan Ly Nhan Vien.exe
+C:\Users\tuana\OneDrive\Documents\C#\Quan Ly Nhan Vien\Quan Ly Nhan Vien\bin\Debug\Quan Ly Nhan Vien.pdb
+C:\Users\tuana\OneDrive\Documents\C#\Quan Ly Nhan Vien\Quan Ly Nhan Vien\obj\Debug\Quan Ly Nhan Vien.csproj.AssemblyReference.cache
+C:\Users\tuana\OneDrive\Documents\C#\Quan Ly Nhan Vien\Quan Ly Nhan Vien\obj\Debug\Quan_Ly_Nhan_Vien.frm1.resources
+C:\Users\tuana\OneDrive\Documents\C#\Quan Ly Nhan Vien\Quan Ly Nhan Vien\obj\Debug\Quan_Ly_Nhan_Vien.frm2.resources
+C:\Users\tuana\OneDrive\Documents\C#\Quan Ly Nhan Vien\Quan Ly Nhan Vien\obj\Debug\Quan_Ly_Nhan_Vien.Properties.Resources.resources
+C:\Users\tuana\OneDrive\Documents\C#\Quan Ly Nhan Vien\Quan Ly Nhan Vien\obj\Debug\Quan Ly Nhan Vien.csproj.GenerateResource.cache
+C:\Users\tuana\OneDrive\Documents\C#\Quan Ly Nhan Vien\Quan Ly Nhan Vien\obj\Debug\Quan Ly Nhan Vien.csproj.CoreCompileInputs.cache
+C:\Users\tuana\OneDrive\Documents\C#\Quan Ly Nhan Vien\Quan Ly Nhan Vien\obj\Debug\Quan Ly Nhan Vien.exe
+C:\Users\tuana\OneDrive\Documents\C#\Quan Ly Nhan Vien\Quan Ly Nhan Vien\obj\Debug\Quan Ly Nhan Vien.pdb
